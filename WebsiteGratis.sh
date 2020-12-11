@@ -1,4 +1,4 @@
-# ! / bin / bash
+Ji# ! / bin / bash
 
 red='\33[31;1m'
 yellow='\33[33;1m'
@@ -80,7 +80,7 @@ echo "            [ 2 ] Exit                   "
 echo " [ ~ [ ~ [ ~ [ ~ [ [ ~ [ ~ [ ~ [ ~ [ ~ ] "
 echo " ] ~ [ ~ ] ~ [ ~ ] [ ~ ] ~ [ ~ [ ~ [ ~ ] "
 read -p "masukan pilihan anda di sini :" Bro
-if [ $Bos = 1 ] || [ $Bos = 1 ]
+if [ $Bro = 1 ] || [ $Bro = 1 ]
 then
          echo == [ ........]
          echo == [ Di Bawah Ya ]
@@ -88,7 +88,7 @@ then
 exit
 fi
 
-if [ $Bos = 2 ] || [ $Bos = 2 ]
+if [ $Bro = 2 ] || [ $Bro = 2 ]
 then
 exit
 fi
